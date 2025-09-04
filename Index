@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desirée Boaventura</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Desirée Boaventura</h1>
+    <p>Sensualidade, liberdade e prazer em cada detalhe.</p>
+  </header>
+
+  <main>
+    <section id="store">
+      <h2>Loja</h2>
+      <p>Confira nossos produtos selecionados. Adicione ao carrinho e finalize a compra.</p>
+    </section>
+
+    <section id="about">
+      <h2>Sobre a Marca</h2>
+      <p>A Desirée Boaventura nasceu para oferecer prazer, liberdade e autoconfiança. Trabalhamos com produtos de qualidade, discrição e variedade, para despertar novas experiências e elevar a autoestima.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contato</h2>
+      <p>WhatsApp: 11 91404-4198</p>
+      <p>Email: hpbargan@gmail.com</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
